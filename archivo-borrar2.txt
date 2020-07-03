@@ -1,1 +1,2 @@
-Este archivo se conservará un poco más
+Este archivo se conservará un poco más.
+Ya se va a quedar definitivamente en el proyecto
