@@ -8,5 +8,6 @@ Un blog increíble para el curso de Git y Git Hub de [Platzi](https://platzi.com
 * El flujo de trabajo en GitHub
 * La mejores prácticas que existen para este.
 * Trucos muy buenos.
+* Creado por el increíble equipo de MXDs
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor toma el curso.  
